@@ -1,10 +1,9 @@
-## Run Buddy
+## Run Buddy - A itness training site
 
 ## Description
 
-A  website that offers fitness training services.
-The site follows the best practices for usage of the HTML5 - the living standard and advanced CSS styling. This is project is one of the projects that demonstrates the mobile - first - principle which is designated including mobile friendly usability/functionality.
-
+A  website that offers fitness training services which is Built and styled as a  static webpage using semantic HTML and CSS.
+The site follows the best practices for usage of the HTML5 - the living standard and advanced CSS styling implementing best practices and standards when structuring HTML files, such as nested elements, indentation, comments, and line breaks and implementing CSS styling via class, id, and element selectors using external stylesheets, inline styles, and embedded style tags. This is project is also one of the projects that demonstrates the mobile - first - principle which is designated including mobile friendly usability, functionality and responsiveness.
 
 ## Table of Contents
 
@@ -20,6 +19,8 @@ The site follows the best practices for usage of the HTML5 - the living standard
 * [Tests](#tests)
 
 * [Questions](#questions)
+
+![Screen-Shot](https://user-images.githubusercontent.com/84083304/151570690-efff8607-2ade-4c93-99d1-396a12cb1f0e.png)
 
 ## Installation
 
