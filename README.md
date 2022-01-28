@@ -1,4 +1,4 @@
-## Run Buddy - A itness training site
+## Run Buddy - A fitness training site
 
 ## Description
 
@@ -33,8 +33,6 @@ HTML and Advanced CSS
 ## Usage
 
 Website link: https://lernantino.github.io/run-buddy/
-Repository: https://github.com/tomhabt/run-buddy.git
-
 
 ## Contributing
 
