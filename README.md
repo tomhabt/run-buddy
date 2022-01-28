@@ -7,6 +7,8 @@ The site follows the best practices for usage of the HTML5 - the living standard
 
 ## Table of Contents
 
+* [Mock-up](#mock-up)
+
 * [Installation](#installation)
 
 * [Tech. Used](#Tech.Used)
@@ -20,6 +22,7 @@ The site follows the best practices for usage of the HTML5 - the living standard
 
 * [Questions](#questions)
 
+## Mock-Up
 ![Screen-Shot](https://user-images.githubusercontent.com/84083304/151570690-efff8607-2ade-4c93-99d1-396a12cb1f0e.png)
 
 ## Installation
