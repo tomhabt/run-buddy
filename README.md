@@ -35,7 +35,7 @@ HTML and Advanced CSS
 
 ## Usage
 
-Website link: https://lernantino.github.io/run-buddy/
+Website link: https://tomhabt.github.io/run-buddy/
 
 ## Contributing
 
